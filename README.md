@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am deeply curious about technology and love exploring web development, building on my start in the software service industry. Coding is my way of creating meaningful solutions, fueled by my passion for learning, books, and fresh ideas.</p>
+<p align="left">I am curious about technology and love exploring web development, building on my start in the software service industry. Coding is my way of creating meaningful solutions, fueled by my passion for learning, books, and fresh ideas.</p>
 
 ###
 
