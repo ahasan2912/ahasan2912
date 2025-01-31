@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am curious about technology and love exploring web development, building on my start in the software service industry. Coding is my way of creating meaningful solutions, fueled by my passion for learning, books, and fresh ideas.</p>
+<p align="left">I am Frontend Web Developer with knowledge of JavaScript, React.js, Next.js and variety of frontend technologies. Easy to understanding fundamentals concept of React component lifecycle and Pixel perfect design Figma to HTML. I am motivated to offer my diverse abilities to relevant and innovative projects because I am committed to code quality and continual learning.</p>
 
 ###
 
