@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Contact Info</p>
+<h1 align="left">Contact Info</h1>
 
 ###
 
