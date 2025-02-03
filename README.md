@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am deeply curious about technology and love exploring web development, building on my start in the software service industry. Coding is my way of creating meaningful solutions, fueled by my passion for learning, books, and fresh ideas.</p>
+<p align="left">I am Frontend Web Developer with knowledge of JavaScript, React.js, Next.js and variety of frontend technologies. Easy to understanding fundamentals concept of React component lifecycle and Pixel perfect design Figma to HTML. I am motivated to offer my diverse abilities to relevant and innovative projects because I am committed to code quality and continual learning.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">BSc in Computer Science and Engineering<br>Daffodil International University (2021-2025)<br>SCGPA: 3.53</p>
+<h3 align="left">BSc in Computer Science and Engineering<br>Daffodil International University (2021-2025)<br>SCGPA: 3.51</h3>
 
 ###
 
@@ -29,15 +29,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
@@ -55,6 +63,9 @@
   </a>
   <a href="https://twitter.com/AhasanHabi47314" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://zenui.net/components/animated-cards?fbclid=IwY2xjawH7x3pleHRuA2FlbQIxMQABHdcIHTRcE-Z6CNQSuPz9Cpi3zzqpqo4ByHU6x1335uow16jBLSpI1XXp2Q_aem_cxCuXtEMEBcD3ZbsvcMoww#hover-animated-card-5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
