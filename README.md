@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">BSc in Computer Science and Engineering<br>Daffodil International University (2021-2025)<br>CGPA: 3.51<br><br>◉  Developed several basic projects as part of different courses, utilizing C, C++, Java (OOP), Python <br>    (Machine Learning), JavaScript, HTML, CSS and IoT- based technologies.<br>◉ Take of Programming Contest DIU Ranking 11th (12/2021)<br>◉ Take of Programming Contest DIU Ranking 96th (04/2022)<br>◉ Unlock the Algorithm Programming Contest DIU Ranking 46th (04/2023)<br>◉ Associate Member at DIU Computer and Programming Club (CPC)<br>◉ Participate Art of Living Seminar at DIU</h4>
+<h3 align="left">BSc in Computer Science and Engineering<br>Daffodil International University (2021-2025)<br>CGPA: 3.51<br><br>◉  Developed several basic projects as part of different courses, utilizing C, C++, Java (OOP), Python <br>    (Machine Learning), JavaScript, HTML, CSS and IoT- based technologies.<br>◉ Take of Programming Contest DIU Ranking 11th (12/2021)<br>◉ Take of Programming Contest DIU Ranking 96th (04/2022)<br>◉ Unlock the Algorithm Programming Contest DIU Ranking 46th (04/2023)<br>◉ Associate Member at DIU Computer and Programming Club (CPC)<br>◉ Participate Art of Living Seminar at DIU</h3>
 
 ###
 
@@ -47,6 +47,37 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+## :chart_with_upwards_trend: Current Statistics
+
+<br>
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=toufiqul-hasan&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toufiqul Hasan's GitHub Streak Statistics">
+    </td>
+    <td>
+      <a href="https://app.daily.dev/toufiqul_hasan"><img src="./devcard.png" width="300" alt="Toufiqul Hasan's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics" alt="Toufiqul Hasan's GitHub Statistics">
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqul-hasan&show_icons=true&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" alt="Toufiqul Hasan's Most Used Languages">
+    </td>
+  </tr>
+</table>
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=toufiqul-hasan&hide_border=true&custom_title=Toufiqul%20Hasan's%20Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light" alt="Toufiqul Hasan's Last 31 Days GitHub Activity Graph">
+    </td>
+  </tr>
+<table>
 
 ###
 
