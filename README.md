@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">BSc in Computer Science and Engineering<br>Daffodil International University (2021-2025)<br>SCGPA: 3.51</h3>
+<h4 align="left">BSc in Computer Science and Engineering<br>Daffodil International University (2021-2025)<br>CGPA: 3.51<br><br>◉  Developed several basic projects as part of different courses, utilizing C, C++, Java (OOP), Python <br>    (Machine Learning), JavaScript, HTML, CSS and IoT- based technologies.<br>◉ Take of Programming Contest DIU Ranking 11th (12/2021)<br>◉ Take of Programming Contest DIU Ranking 96th (04/2022)<br>◉ Unlock the Algorithm Programming Contest DIU Ranking 46th (04/2023)<br>◉ Associate Member at DIU Computer and Programming Club (CPC)<br>◉ Participate Art of Living Seminar at DIU</h4>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h1 align="left">Contact Info</h1>
+<p align="left">Contact Info</p>
 
 ###
 
@@ -63,9 +63,6 @@
   </a>
   <a href="https://twitter.com/AhasanHabi47314" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://zenui.net/components/animated-cards?fbclid=IwY2xjawH7x3pleHRuA2FlbQIxMQABHdcIHTRcE-Z6CNQSuPz9Cpi3zzqpqo4ByHU6x1335uow16jBLSpI1XXp2Q_aem_cxCuXtEMEBcD3ZbsvcMoww#hover-animated-card-5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
