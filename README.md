@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">BSc in Computer Science and Engineering<br>Daffodil International University (2021-2025)<br>CGPA: 3.51</h3>
+<h3 align="left">BSc in Computer Science and Engineering<br>Daffodil International University (2021-2025)<br>CGPA: 3.50</h3>
 
 ###
 
